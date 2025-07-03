@@ -7,7 +7,7 @@
 
 ---
 
-![image](UI.png)
+![image](spk.png)
 
 **Ujian Akhir Semester - SPK**
 ---
