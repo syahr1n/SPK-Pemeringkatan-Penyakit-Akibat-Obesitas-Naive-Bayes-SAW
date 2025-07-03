@@ -1,7 +1,7 @@
 ---
 
 
-# **SPK Pemeringkatan Penyakit Akibat Obesitas pada Individu menggunakan Metode Naive Bayes dan SAW**
+# **SPK Pemeringkatan Penyakit Akibat Obesitas pada Individu menggunakan Naive Bayes dan SAW**
 
 
 
